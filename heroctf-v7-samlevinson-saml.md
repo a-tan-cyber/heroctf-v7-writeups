@@ -2,7 +2,7 @@
 
 ***From “simple user” to forged admin with Burp, Python, and a sneaky SAML bug.***
 
-GitHub: https://github.com/a-tan-cyber Contact: a-tan-cyber@protonmail.com
+GitHub: https://github.com/a-tan-cyber Contact: a.tan.cyber@protonmail.com
  
 **CTF:** HeroCTF v7 – SAMLevinson  
 **Difficulty:** medium  
