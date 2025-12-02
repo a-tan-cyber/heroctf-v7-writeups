@@ -1,8 +1,9 @@
 # Exploiting CVE-2022-41912: Go SAML XML Assertion Wrapping Validation Vulnerability (HeroCTF v7: SAMLevinson)
 
-From “simple user” to forged admin using Burp, Python, and a sneaky SAML assertion wrapping bug.
+***From “simple user” to forged admin with Burp, Python, and a sneaky SAML bug.***
 
-**Written by:** amtan (a-tan-cyber@protonmail.com)  
+GitHub: https://github.com/a-tan-cyber Contact: a-tan-cyber@protonmail.com
+ 
 **CTF:** HeroCTF v7 – SAMLevinson  
 **Difficulty:** medium  
 **Tags:** web, SAML, SSO, golang, CVE-2022-41912  
@@ -15,40 +16,6 @@ From “simple user” to forged admin using Burp, Python, and a sneaky SAML ass
 > There is no benefit in attacking the port associated with the IDP directly, as it is not part of the challenge.  
 >  
 > Format: `^Hero{\S+}$` – Author: Thib
-
----
-
-# Exploiting CVE-2022-41912: Go SAML XML Assertion Wrapping Validation Vulnerability (HeroCTF v7: SAMLevinson)
-
-***From “simple user” to forged admin with Burp, Python, and a sneaky SAML bug.***
-
-GitHub: [https://github.com/a-tan-cyber](https://github.com/a-tan-cyber)
-Contact: a-tan-cyber@protonmail.com
-
----
-
-## **SAMLevinson (HeroCTF v7 Challenge)**
-
-Difficulty: `medium`
-
-Tags: `web`, `SAML`, `SSO`, `golang` `2022`, `cve`  
-
-Challenge Text:
-
-*This Sam Levinson fan club website seems to hold a secret. However, I get the impression that the login page isn't working... Try to find the flag! 
-We managed to recover a functional account on the IDP, if that helps: `user`:`oyJPNYd3HgeBkaE%!rP#dZvqf2z*4$^qcCW4V6WM`* 
-
-*There is no need for brute force or fuzzing; everything is accessible naturally. There is no benefit in attacking the port associated with the IDP directly, as it is not part of the challenge.* 
-
-Challenge URLs: 
-
-- APP: [http://web.heroctf.fr:8080](http://web.heroctf.fr:8080/) 
-
-- IDP: [http://web.heroctf.fr:8081](http://web.heroctf.fr:8081/) 
-
-Format: ^Hero{\S+}$ 
-
-Author: Thib
 
 ---
 
