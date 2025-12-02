@@ -3,7 +3,7 @@
 ***From "WTH is Frida/Freeda?!", to JADX, to disassembling machine code with Ghidra (an NSA tool!)***
 
 **GitHub**: [https://github.com/a-tan-cyber](https://github.com/a-tan-cyber)
-**Contact**: a-tan-cyber@protonmail.com
+**Contact**: a.tan.cyber@protonmail.com
 
 **CTF:** HeroCTF v7 – Freeda Native Hook  
 **Difficulty:** hard  
