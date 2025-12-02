@@ -1,8 +1,10 @@
 # Reverse-engineering an Android App’s Native C/C++ Library to Crack its Password Check (HeroCTF v7: Freeda Native Hook)
 
-From “WTH is Frida/Freeda?!” to Frida hooks, memory scanning, and reversing an x86_64 Android native library.
+***From "WTH is Frida/Freeda?!", to JADX, to disassembling machine code with Ghidra (an NSA tool!)***
 
-**Written by:** amtan (a-tan-cyber@protonmail.com)  
+**GitHub**: [https://github.com/a-tan-cyber](https://github.com/a-tan-cyber)
+**Contact**: a-tan-cyber@protonmail.com
+
 **CTF:** HeroCTF v7 – Freeda Native Hook  
 **Difficulty:** hard  
 **Tags:** android, cpp, frida, java, reversing  
@@ -14,35 +16,6 @@ From “WTH is Frida/Freeda?!” to Frida hooks, memory scanning, and reversing 
 > Don't waste too much time statically analyzing the application; there are much faster ways.  
 >  
 > Format: `^Hero{\S+}$` – Author: Thib
-
----
-
-# Reverse-engineering an Android App’s Native C/C++ Library to Crack its Password Check (HeroCTF v7: Freeda Native Hook)
-
-***From "WTH is Frida/Freeda?!", to JADX, to disassembling machine code with Ghidra (an NSA tool!)***
-
-GitHub: [https://github.com/a-tan-cyber](https://github.com/a-tan-cyber)
-Contact: a-tan-cyber@protonmail.com
-
-## **Freeda Native Hook (HeroCTF v7 Challenge)**
-
-Difficulty: `hard`
-
-Tags: `android`, `cpp`, `frida`, `java`  
-
-Challenge Text:
-
-*Try to find the password to open this vault!*
-
-*I was told that it was dangerous to let my application install on a rooted machine. I fixed the problem!*
-
-*I was also told that it was safer to move sensitive functions from my code to a native library, so that's what I did!*
-
-*Don't waste too much time statically analyzing the application; there are much faster ways.*
-
-Format: **`^Hero{\S+}$`**
-
-Author: **Thib**
 
 ---
 
