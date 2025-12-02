@@ -2,7 +2,7 @@
 
 Personal writeups for selected challenges from **HeroCTF v7**.
 
-> Author: **amtan** (a-tan-cyber@protonmail.com)
+> Author: **amtan** (a.tan.cyber@protonmail.com)
 
 This repository is intentionally limited to **HeroCTF v7** challenges.
 
@@ -32,4 +32,5 @@ Flags are included as part of the writeups and follow the format `Hero{...}` as 
 ## License
 
 These writeups are © amtan. You may read and share this repository, but please do not copy the content verbatim without attribution.
+
 
