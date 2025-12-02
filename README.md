@@ -8,6 +8,12 @@ This repository is intentionally limited to **HeroCTF v7** challenges.
 
 ---
 
+## Certificate
+
+![HeroCTF v7 certificate for amtan from 42 Asean](images/heroctf-v7-certificate.png)
+
+---
+
 ## Index
 
 | Challenge | Category | Writeup |
@@ -26,3 +32,4 @@ Flags are included as part of the writeups and follow the format `Hero{...}` as 
 ## License
 
 These writeups are © amtan. You may read and share this repository, but please do not copy the content verbatim without attribution.
+
